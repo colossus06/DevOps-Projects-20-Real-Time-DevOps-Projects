@@ -21,7 +21,7 @@ slack]()
 
 - [x] [Continuous Delivery on AWS Cloud-Java Application]()
 
-- [x] [Ansible for AWS VPC-Phase One]()
+- [x] [Ansible for AWS VPC-Phase One](https://github.com/colossus06/Devops-Projects-Ansible-for-AWS-VPC):writing_hand:
 
 - [x] [Ansible for Complete Stack Setup-PHASE Two]()
 
