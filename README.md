@@ -36,7 +36,7 @@ plus Ansible]()
 
 - [x] [Kubernetes Setup for productions](https://github.com/colossus06/16-Kubernetes-Setup-for-productions):writing_hand:
 
-- [x] [Java App Deployment on Kubernetes Cluster]()
+- [x] [Java App Deployment on Kubernetes Cluster](https://github.com/colossus06/Java-App-Deployment-on-Kubernetes-Cluster):writing_hand:
 
 - [x] [Terraform Tutorials]()
 
